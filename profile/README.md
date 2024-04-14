@@ -1,6 +1,6 @@
 # Welcome to eVow.io - The Future of Smart Contract Deployment!
 
-[![eVow Logo](https://test.eVow.io/images/logo192.png)](https://evow.io)
+[![eVow Logo](https://github.com/eVowIO/.github/blob/main/logo192.png)](https://evow.io)
 
 eVow.io is not just another smart contract platform - it's a revolution in decentralized applications! With eVow.io, users can deploy a wide array of peer-to-peer, employment, banking (including ROSCA - Rotating Savings and Credit Associations), and many more contracts directly onto the blockchain - and they OWN it!
 

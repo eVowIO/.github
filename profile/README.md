@@ -42,6 +42,6 @@ For any questions or assistance, feel free to reach out to our support team on [
 
 Stay updated with the latest news, updates, and features by following us on social media:
 
-- [Twitter](https://twitter.com/eVowToken)
+- [Twitter](https://twitter.com/eVowIO)
 - [Telegram](https://t.me/OfficialEvowDiscussion)
 

@@ -21,10 +21,11 @@ ROSCA? Savings clubs? Traditional banking institutions just can't keep up. With 
 - **Versatility**: From employment to banking, eVow.io supports a wide range of contract types.
 - **Decentralized**: Powered by blockchain technology, ensuring security and transparency.
 - **Peer-to-Peer**: Connect and transact directly with others, no intermediaries needed.
+- **Data Tracking Sentinel**: An unofficial Chrome extension for our data exchange.
 
-## Getting Started (We're currently testing!)
+## Getting Started
 
-1. **Sign Up on Testnet**: Create your account on [eVow.io](https://test.evow.io).
+1. **Sign Up**: Create your account on [eVow.io](https://evow.io).
 2. **Deploy Contracts**: Choose from a variety of contract templates or create your own.
 3. **Manage with Ease**: Monitor and manage your contracts effortlessly through our intuitive interface.
 
@@ -32,7 +33,7 @@ ROSCA? Savings clubs? Traditional banking institutions just can't keep up. With 
 
 Ready to take control of your financial destiny? Join eVow.io today and embrace the future of smart contract deployment!
 
-[Sign Up on Testnet Now](https://test.evow.io)
+[Sign Up on Now](https://evow.io)
 
 ## Support
 

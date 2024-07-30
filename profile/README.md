@@ -33,7 +33,7 @@ ROSCA? Savings clubs? Traditional banking institutions just can't keep up. With 
 
 Ready to take control of your financial destiny? Join eVow.io today and embrace the future of smart contract deployment!
 
-[Sign Up on Now](https://evow.io)
+[Sign Up!](https://evow.io)
 
 ## Support
 
